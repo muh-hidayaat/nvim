@@ -41,7 +41,7 @@ return {
 				"bufls",
 				"emmet_ls",
                 "volar",
---				"prismals",
+				"prismals",
 				"pyright",
 				"templ",
 			},
