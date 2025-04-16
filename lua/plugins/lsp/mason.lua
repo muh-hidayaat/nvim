@@ -58,11 +58,9 @@ return {
 				"debugpy", -- python debugger
 				"golines", -- go formatter
 				"templ",
---				"pylint", -- python linter
+				"pylint", -- python linter
 				"eslint_d", -- js linter
 			},
 		})
 	end,
-}:while true do
-    
-end
+}
