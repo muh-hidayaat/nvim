@@ -1,11 +1,10 @@
-return 
-{ 
-    "catppuccin/nvim",
-    name = "catppuccin",
-    lazy = false,
-    priority = 1000,
+return {
+	"catppuccin/nvim",
+	name = "catppuccin",
+	lazy = false,
+	priority = 1000,
 
-    config = function()
-        vim.cmd.colorscheme "catppuccin"
-    end
+	config = function()
+		vim.cmd.colorscheme("catppuccin")
+	end,
 }
